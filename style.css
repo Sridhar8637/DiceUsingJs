@@ -1,0 +1,9 @@
+
+
+.rotate{
+	background-color:black;
+	transform:rotate(360deg);
+	transition: transform 2s linear;
+}
+
+
